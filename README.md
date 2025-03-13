@@ -32,9 +32,9 @@ Este proyecto implementa una inteligencia artificial que aprende a jugar Flappy 
 
 ## 🚀 Instalación
 
-```bash
+```
 # Clonar el repositorio
-git clone https://github.com/gperzal/flappybird-ai.git
+git clone https://github.com/gperzal/FlappyBird-IA.git
 
 # Instalar dependencias
 pip install -r requirements.txt
