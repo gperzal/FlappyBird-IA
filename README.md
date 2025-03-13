@@ -82,18 +82,9 @@ La red neuronal procesa 5 inputs clave:
 | 10         | 50               | 120              |
 | 50         | 200              | 500+             |
 
-## 🌟 Contribuciones
-
-¡Las contribuciones son bienvenidas! No dudes en:
-
-- Abrir Issues
-- Enviar Pull Requests
-
-
+---- 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="DungeonGame Logo Java" width="50" height="50" />
-  <p>Desarrollado con ❤️ por GXPZ Developer Full Stack</p>
-  <p>© 2025 DungeonGame</p>
+  <p>Desarrollado con ❤️ por GXPZ Developer Full Stack © 2025</p>
 </div>
 
