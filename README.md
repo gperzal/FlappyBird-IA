@@ -18,7 +18,7 @@
 Este proyecto implementa una inteligencia artificial que aprende a jugar Flappy Bird mediante algoritmos genéticos. La IA evoluciona a través de generaciones, optimizando su comportamiento para alcanzar puntuaciones cada vez más altas.
 
 <div align="center">
-  <img src="https://github.com/gperzal/blob/main/images/ai/flappybird.gif" alt="Flappy Bird AI Demo" height="400">
+  <img src="https://github.com/gperzal/FlappyBird-IA/blob/main/images/flappybird.gif" alt="Flappy Bird AI Demo" height="400">
 </div>
 
 ## 🧬 Características
@@ -92,5 +92,8 @@ La red neuronal procesa 5 inputs clave:
 
 
 <div align="center">
-Desarrollado con ❤️ por <a href="https://github.com/tuusuario">Tu Nombre</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="DungeonGame Logo Java" width="50" height="50" />
+  <p>Desarrollado con ❤️ por GXPZ Developer Full Stack</p>
+  <p>© 2025 DungeonGame</p>
 </div>
+
